@@ -4,10 +4,10 @@
 <p align="center">
 <img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/><br>
 <font face="Arial">I'm not really great at writing introductions, so I asked <a href="https://openai.com/blog/chatgpt/">ChatGPT</a> to help me out.</font>
-</p><hr>
+</p>
 
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">Pradeep Pal </a> is a dedicated Web Developer and content creator from New Delhi, India, with a passion for learning and exploring new skills. Feel free to reach out for any Freelance opportunities!.</font></h3>
-
+<hr style="height: 12px; border: 0; box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);">
 <h3 align="left"><font size="+2" face="Verdana">About Me</font></h3>
 <p align="left">I thrive on creative challenges and bring a fresh perspective to my work. My interests span a wide range of domains, including:
 </p>
