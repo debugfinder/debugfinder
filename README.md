@@ -6,9 +6,9 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">Pradeep Pal </a> is a dedicated Web Developer and content creator from New Delhi, India, with a passion for learning and exploring new skills. Feel free to reach out for any Freelance opportunities!.</font></h3>
 
 <h3 align="left"><font size="+2" face="Verdana">About Me</font></h3>
-<p align="left">
-  <a href="https://topmate.io/Debugfinder" target="_blank" rel="noreferrer"> Book a Chat with me! </a>I thrive on creative challenges and bring a fresh perspective to my work. My interests span a wide range of domains, including:
+<p align="left">I thrive on creative challenges and bring a fresh perspective to my work. My interests span a wide range of domains, including:
 </p>
+
 - 🌐 **Web Development:** Creating dynamic websites and applications using various languages and frameworks.
 - 🎓 **Teaching:** Sharing knowledge and helping others grow.
 - 🎨 **Graphic Designing:** Crafting designs with tools like Adobe Photoshop, CorelDRAW, and Canva.
@@ -19,6 +19,7 @@
 <p align="left">
   During my BCA journey, I gained expertise in programming and design, including:
 </p>
+
 - **Languages:** C, C++, Java, HTML, CSS, JavaScript, MySQL, PHP, Python(Flask).
 - **Graphic and Video Editing Tools:** Adobe Photoshop, CorelDRAW, Canva, Filmora, VN, Kinemaster, Picart.
 - **Office Tools:** Microsoft Word, Excel, Powerpoint.
@@ -27,6 +28,7 @@
 <p align="left">
   I joined LinkedIn and Github to expand my knowledge and connect with like-minded individuals. My areas of interest include:
 </p>
+
 - **Web Development**
 - **Data Science**
 - **Artificial Intelligence**
