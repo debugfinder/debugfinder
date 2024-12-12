@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Pradeep Pal a.k.a <a href="https://www.youtube.com/@debugfinder/">Debugfinder</a></font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Pradeep Pal (<a href="https://www.youtube.com/@debugfinder/">Debugfinder</a></font></h1>)
 <!-- GIF -->
 <p align="center">
 <img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/><br>
