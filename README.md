@@ -47,5 +47,5 @@
 </p>
 
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me **[debugfinder@gmail.com](mailto: debugfinder@gmail.com)**
+- 📫 How to reach me **[debugfinder@gmail.com](mailto:debugfinder@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
