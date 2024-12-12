@@ -1,5 +1,8 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Pradeep Pal a.k.a <a href="https://www.youtube.com/@debugfinder/">Debugfinder</a></font></h1>
+
+<h2 align="center"><font face="Arial">I'm not really great at writing introductions, so I asked ChatGPT to help me out.</font></h2>
+
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">Pradeep Pal </a> is a passionate Web Developer from India, working on Python Web App for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
@@ -16,7 +19,7 @@
 
 
 - I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
+- I’m looking to collaborate on **Web App Projects**
 
 
 
