@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial"><img align="center" width="350" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/>,<br> I'm Pradeep Pal (<a href="https://www.youtube.com/@debugfinder/">Debugfinder</a>)</font></h1>
+<h1 align="center"><font face="Arial"><img align="center" width="300" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/><br> I'm Pradeep Pal (<a href="https://www.youtube.com/@debugfinder/">Debugfinder</a>)</font></h1>
 <!-- GIF -->
 <p align="center">
 <img align="center" width="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241212T072805Z&X-Amz-Expires=300&X-Amz-Signature=70989b2bcdbcb71ec3d05ae30c409e05a68b30bba107c61337baa27258a04100&X-Amz-SignedHeaders=host"/><br>
