@@ -40,16 +40,16 @@
 </p>
 
 <!-- GIF -->
-<img align="right" height="200" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
+
+#### Editor / IDE I ♥
+<p align="left"><img src="https://www.sublimetext.com/images/logo.svg" alt="sublime" title="sublime" width="" height=""/><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Chat:</font></h3>
 <p align="left">
   <a href="https://topmate.io/Debugfinder" target="_blank" rel="noreferrer"> Book a Chat with me! </a>
 </p>
-
-#### Editor / IDE I ♥
-<p align="left"><img src="https://www.sublimetext.com/images/logo.svg" alt="sublime" title="sublime" width="" height=""/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
