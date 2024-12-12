@@ -38,6 +38,7 @@
 - **Data Science**
 - **Artificial Intelligence**
 - **Digital Marketing**
+- **Graphic Designing**
 <p align="left">
   I’m always excited to learn, share insights, and grow with the community.
 </p>
@@ -64,7 +65,7 @@
 </p>
 
 - 💬 Ask me about **Web Development**
-- Feel free to connect with me on LinkedIn: **<a href="https://topmate.io/Debugfinder" target="_blank" rel="noreferrer">@debugfinder</a>**
+- 🤝🏻 Feel free to connect with me on LinkedIn: **<a href="https://linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">@debugfinder</a>**
 - 📫 How to reach me **[debugfinder@gmail.com](mailto:debugfinder@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
 - 🙏 Thank you for visiting my profile. Let’s learn, create, and have fun together! 🚀
