@@ -37,18 +37,14 @@
   I’m always excited to learn, share insights, and grow with the community.
 </p>
 
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/Debugfinder" target="_blank" rel="noreferrer"> Book a Chat with me! </a>
-</p>
-
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-
+<!-- Schedule a 1-on-1 Call Section -->
+<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Chat:</font></h3>
+<p align="left">
+  <a href="https://topmate.io/Debugfinder" target="_blank" rel="noreferrer"> Book a Chat with me! </a>
+</p>
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
@@ -81,3 +77,5 @@
 - 📫 How to reach me **[debugfinder@gmail.com](mailto:debugfinder@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
 - 🙏 Thank you for visiting my profile. Let’s learn, create, and have fun together! 🚀
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debugfinder&" alt="debugfinder" /></p>
