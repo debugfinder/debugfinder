@@ -3,7 +3,7 @@
 
 <p align="center"><font face="Arial">I'm not really great at writing introductions, so I asked <a href="https://openai.com/blog/chatgpt/">ChatGPT</a> to help me out.</font></p>
 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">Pradeep Pal </a> is a dedicated Web Developer and content creator from New Delhi, India, with a passion for learning and exploring new skills. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">Pradeep Pal </a> is a dedicated Web Developer and content creator from New Delhi, India, with a passion for learning and exploring new skills. Feel free to reach out for any Freelance opportunities!.</font></h3>
 
 <h3 align="left"><font size="+2" face="Verdana">About Me</font></h3>
 <p align="left">
