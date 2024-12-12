@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Pradeep Pal a.k.a <a href="https://www.youtube.com/@debugfinder/">Debugfinder</a></font></h1>
 
-<h2 align="center"><font face="Arial">I'm not really great at writing introductions, so I asked ChatGPT to help me out.</font></h2>
+<p align="center"><font face="Arial">I'm not really great at writing introductions, so I asked ChatGPT to help me out.</font></p>
 
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">Pradeep Pal </a> is a passionate Web Developer from India, working on Python Web App for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
