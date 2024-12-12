@@ -1,11 +1,11 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Nasiullha Chaudhari a.k.a <a href="https://www.youtube.com/@cloudchamp/">CloudChamp</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Pradeep Pal a.k.a <a href="https://www.youtube.com/@debugfinder/">Debugfinder</a></font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">Pradeep Pal </a> is a passionate Web Developer from India, working on Python Web App for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
 <p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
+  <a href="https://topmate.io/Debugfinder" target="_blank" rel="noreferrer"> Book a Chat with me! </a>
 </p>
 
 <!-- GIF -->
@@ -39,7 +39,7 @@
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
 
 #### Editor / IDE I ♥
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.sublimetext.com/images/logo.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
