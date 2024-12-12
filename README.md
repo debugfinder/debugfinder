@@ -1,9 +1,39 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Pradeep Pal a.k.a <a href="https://www.youtube.com/@debugfinder/">Debugfinder</a></font></h1>
 
-<p align="center"><font face="Arial">I'm not really great at writing introductions, so I asked ChatGPT to help me out.</font></p>
+<p align="center"><font face="Arial">I'm not really great at writing introductions, so I asked <a href="https://openai.com/blog/chatgpt/">ChatGPT</a> to help me out.</font></p>
 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">Pradeep Pal </a> is a passionate Web Developer from India, working on Python Web App for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/debugfinder/" target="_blank" rel="noreferrer">Pradeep Pal </a> is a dedicated Web Developer and content creator from New Delhi, India, with a passion for learning and exploring new skills. Feel free to reach out for any Freelance Projects.</font></h3>
+
+<h3 align="left"><font size="+2" face="Verdana">About Me</font></h3>
+<p align="left">
+  <a href="https://topmate.io/Debugfinder" target="_blank" rel="noreferrer"> Book a Chat with me! </a>I thrive on creative challenges and bring a fresh perspective to my work. My interests span a wide range of domains, including:
+</p>
+- 🌐 **Web Development:** Creating dynamic websites and applications using various languages and frameworks.
+- 🎓 **Teaching:** Sharing knowledge and helping others grow.
+- 🎨 **Graphic Designing:** Crafting designs with tools like Adobe Photoshop, CorelDRAW, and Canva.
+- 🖋️ **Blogging:** Writing and sharing my experiences and learnings.
+- 🌱 **Gardening and 🍳 Cooking:** Exploring nature and experimenting in the kitchen!
+
+<h3 align="left"><font size="+2" face="Verdana">Skills and Tools</font></h3>
+<p align="left">
+  During my BCA journey, I gained expertise in programming and design, including:
+</p>
+- **Languages:** C, C++, Java, HTML, CSS, JavaScript, MySQL, PHP, Python(Flask).
+- **Graphic and Video Editing Tools:** Adobe Photoshop, CorelDRAW, Canva, Filmora, VN, Kinemaster, Picart.
+- **Office Tools:** Microsoft Word, Excel, Powerpoint.
+
+<h3 align="left"><font size="+2" face="Verdana">Networking and Learning</font></h3>
+<p align="left">
+  I joined LinkedIn and Github to expand my knowledge and connect with like-minded individuals. My areas of interest include:
+</p>
+- **Web Development**
+- **Data Science**
+- **Artificial Intelligence**
+- **Digital Marketing**
+<p align="left">
+  I’m always excited to learn, share insights, and grow with the community.
+</p>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
@@ -16,11 +46,6 @@
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-
-
-- I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Web App Projects**
-
 
 
 #### Programming Language Stack
@@ -50,5 +75,7 @@
 </p>
 
 - 💬 Ask me about **Web Development**
+- Feel free to connect with me on LinkedIn: **<a href="https://topmate.io/Debugfinder" target="_blank" rel="noreferrer">@debugfinder</a>**
 - 📫 How to reach me **[debugfinder@gmail.com](mailto:debugfinder@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
+- 🙏 Thank you for visiting my profile. Let’s learn, create, and have fun together! 🚀
