@@ -64,12 +64,9 @@
 
 
 <!-- Schedule a 1-on-1 Call Section -->
-| --- | --- |
-
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Chat:</font></h3>
 <p align="left">
   <a href="https://topmate.io/debugfinder" target="_blank" rel="noreferrer"> Book a Chat with me! </a>
-  | | |
 </p>
 
 <hr>
