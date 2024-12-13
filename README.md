@@ -49,9 +49,6 @@
 | Project Name | Description |
 | --- | --- |
 | [Todo-s App](https://github.com/debugfinder/Todo-s-App) | The ToDo-s App is a simple web application built using Python and the Flask framework. |
-| [No Data Found](https://github.com/) | ........... |
-| [No Data Found](https://github.com/) | ........... |
-| [No Data Found](https://github.com/) | ........... |
 | | |
 
 <hr>
