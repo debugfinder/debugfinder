@@ -62,8 +62,8 @@
 
 <table>
   <tr>
-    <th>Schedule a 1-on-1 Chat</th>
-    <td><a href="https://topmate.io/debugfinder" target="_blank" rel="noreferrer">Book a Chat with me!</a></td>
+    <th>Schedule a 1-on-1 Chat
+    <br> <br> <a href="https://topmate.io/debugfinder" target="_blank" rel="noreferrer">Book a Chat with me!</a></th>
   </tr>
 </table>
 
