@@ -60,11 +60,12 @@
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debugfinder&show_icons=true&locale=en&layout=compact" alt="debugfinder" /></p>
 
 
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Chat:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/debugfinder" target="_blank" rel="noreferrer"> Book a Chat with me! </a>
-</p>
+<table>
+  <tr>
+    <th>Schedule a 1-on-1 Chat</th>
+    <td><a href="https://topmate.io/debugfinder" target="_blank" rel="noreferrer">Book a Chat with me!</a></td>
+  </tr>
+</table>
 
 <hr>
 
